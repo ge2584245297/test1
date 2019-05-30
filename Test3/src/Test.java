@@ -4,5 +4,7 @@ public class Test {
 		System.out.println(4);
 		
 		System.out.println("»¹ºÃÂğ,ºÅ");
+		System.out.println(888);
+
 	}
 }
